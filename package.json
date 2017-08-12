@@ -1,0 +1,12 @@
+{
+  "name": "ig_stream_app",
+  "version": "1.0.0",
+  "description": "Node.js Lightstreamer app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lightstreamer-client": "^7.1.0"
+  }
+}
